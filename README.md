@@ -1,5 +1,11 @@
 # Visually-Driven-Semantic-Augmentation-for-Zero-Shot-Learning
 
+We tackle the zero-shot learning (ZSL) classification problem and analyse one of its key ingredients, the semantic embedding. Despite their fundamental role, semantic embeddings are not learnt from the visual data to be classified, but, instead, they either come from manual annotation (attributes) or from a linguistic text corpus (distributed word embeddings, DWEs). 
+
+Hence, there is no guarantee that visual and semantic information could fit well, and as to bridge this gap, we propose to augment the semantic information of attributes/DWEs with semantic representations directly extracted from visual data by means of soft labels. 
+
+When combined in a novel ZSL paradigm based on latent attributes, our approach achieves favourable performances on three public benchmark datasets.
+
 ## Parameters Configurations
 
 ### Binary attributes
