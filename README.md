@@ -43,19 +43,19 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   <tr>
     <td> </td>
     <td> </td> 
-    <td>50</td>
+    <td> </td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td> </td>
+    <td> </td> 
+    <td> </td>
   </tr>
 </table>
 
 ### Combination of the two
 <table style="width:100%">
   <tr>
-    <th>Dataset</th>
+    <th> </th>
     <th> </th> 
     <th> </th>
   </tr>
