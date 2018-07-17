@@ -1,5 +1,8 @@
 # Visually-Driven-Semantic-Augmentation-for-Zero-Shot-Learning
 
+## Parameters Configurations
+
+### Binary attributes
 <table style="width:100%">
   <tr>
     <th>Firstname</th>
