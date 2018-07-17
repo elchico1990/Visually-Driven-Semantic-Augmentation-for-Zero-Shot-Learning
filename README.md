@@ -17,32 +17,32 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
 ### Binary attributes
 <table style="width:100%">
   <tr>
-    <th>Dataset</th>
+    <th> </th>
     <th> </th> 
-    <th>Age</th>
+    <th> </th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td> </td>
+    <td> </td> 
+    <td> </td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td> </td>
+    <td> </td> 
+    <td> </td>
   </tr>
 </table>
 
 ### Distributed word embeddings
 <table style="width:100%">
   <tr>
-    <th>Dataset</th>
+    <th> </th>
     <th> </th> 
-    <th>Age</th>
+    <th> </th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td> </td>
+    <td> </td> 
     <td>50</td>
   </tr>
   <tr>
@@ -57,17 +57,17 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   <tr>
     <th>Dataset</th>
     <th> </th> 
-    <th>Age</th>
+    <th> </th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td> </td>
+    <td> </td> 
+    <td> </td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td> </td>
+    <td> </td> 
+    <td> </td>
   </tr>
 </table>
 
