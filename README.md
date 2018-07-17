@@ -6,7 +6,11 @@ Hence, there is no guarantee that visual and semantic information could fit well
 
 When combined in a novel ZSL paradigm based on latent attributes, our approach achieves favourable performances on three public benchmark datasets.
 
-## Parameters Configurations
+## Code sharing for reproducibility
+
+<img src="https://vignette.wikia.nocookie.net/breakingbad/images/0/08/Work-in-progress-1024x603.png/revision/latest?cb=20170515215858" width=20% height=20%> ... code will be available soon
+
+## Parameters configurations
 
 We provide the parameters configuration that we used in our BMVC 2018 paper for the results therein published
 
@@ -67,7 +71,11 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   </tr>
 </table>
 
+If you use our code, please consider citing the following work
 
-#
-
-<img src="https://vignette.wikia.nocookie.net/breakingbad/images/0/08/Work-in-progress-1024x603.png/revision/latest?cb=20170515215858" width=20% height=20%> ... code will be available soon
+    @InProceedings{Roy-VdSA:BMVC18,
+        title={Visually-Driven Semantic Augmentation for Zero-Shot Learning},
+        author={Roy, Abhinaba and Cavazza, Jacopo and Murino, Vittorio},
+        booktitle = {Proceedings of the 29th British Machine Vision Conference (BMVC)},
+        year={2018}
+    } 
