@@ -8,6 +8,8 @@ When combined in a novel ZSL paradigm based on latent attributes, our approach a
 
 ## Parameters Configurations
 
+We provide the parameters configuration that we used in our BMVC 2018 paper for the results therein published
+
 ### Binary attributes
 <table style="width:100%">
   <tr>
