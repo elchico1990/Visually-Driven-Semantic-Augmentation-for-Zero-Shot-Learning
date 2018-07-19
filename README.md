@@ -112,15 +112,7 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   </tr>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-us36{border-color:inherit;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
-</style>
+****** TO CHANGE *****
 <table class="tg">
   <tr>
     <th class="tg-c3ow" colspan="7"><span style="font-weight:bold">Combination of binary attributes and DWEs</span></th>
