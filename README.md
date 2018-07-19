@@ -15,21 +15,60 @@ When combined in a novel ZSL paradigm based on latent attributes, our approach a
 We provide the parameters configuration that we used in our BMVC 2018 paper for the results therein published
 
 ### Binary attributes
-<table style="width:100%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-us36{border-color:inherit;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
   <tr>
-    <th> </th>
-    <th> </th> 
-    <th> </th>
+    <th class="tg-c3ow" colspan="7"><span style="font-weight:bold">Binary attributes anotated by human</span></th>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td> 
-    <td> </td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Dataset</span></td>
+    <td class="tg-us36" colspan="2">Baseline+<span style="font-weight:bold">A</span></td>
+    <td class="tg-yw4l" colspan="2">VdSA+<span style="font-weight:bold">A</span>+<span style="font-weight:bold">H</span></td>
+    <td class="tg-yw4l" colspan="2">VdSA+<span style="font-weight:bold">A</span>+<span style="font-weight:bold">S</span></td>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td> 
-    <td> </td>
+    <td class="tg-baqh"></td>
+    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">beta</td>
+    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">beta</td>
+    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">beta</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:bold">ap&amp;Y</span></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><span style="font-weight:bold">AwA</span></td>
+    <td class="tg-us36"></td>
+    <td class="tg-us36"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-us36"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:bold">CUB-200</span></td>
+    <td class="tg-baqh">100</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">100</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">10</td>
   </tr>
 </table>
 
