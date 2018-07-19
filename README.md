@@ -112,7 +112,7 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   </tr>
 </table>
 
-****** TO CHANGE *****
+
 <table class="tg">
   <tr>
     <th class="tg-c3ow" colspan="7"><span style="font-weight:bold">Combination of binary attributes and DWEs</span></th>
