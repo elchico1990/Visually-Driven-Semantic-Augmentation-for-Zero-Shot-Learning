@@ -27,11 +27,11 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   </tr>
   <tr>
     <td class="tg-baqh"></td>
-    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">&#945</td>
     <td class="tg-yw4l">beta</td>
-    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">&#945</td>
     <td class="tg-yw4l">beta</td>
-    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">&#945</td>
     <td class="tg-yw4l">beta</td>
   </tr>
   <tr>
@@ -76,11 +76,11 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   </tr>
   <tr>
     <td class="tg-baqh"></td>
-    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">&#945</td>
     <td class="tg-yw4l">beta</td>
-    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">&#945</td>
     <td class="tg-yw4l">beta</td>
-    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">&#945</td>
     <td class="tg-yw4l">beta</td>
   </tr>
   <tr>
