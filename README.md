@@ -107,7 +107,7 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
     <td class="tg-baqh">0</td>
     <td class="tg-baqh">10</td>
     <td class="tg-baqh">10</td>
-    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">100</td>
     <td class="tg-baqh">60</td>
   </tr>
 </table>
