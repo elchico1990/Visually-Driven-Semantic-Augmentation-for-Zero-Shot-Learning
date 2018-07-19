@@ -63,22 +63,52 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   </tr>
 </table>
 
-### Distributed word embeddings
-<table style="width:100%">
+
+<table class="tg">
   <tr>
-    <th> </th>
-    <th> </th> 
-    <th> </th>
+    <th class="tg-c3ow" colspan="7"><span style="font-weight:bold">Distributed Word Embeddings (DWEs)</span></th>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td> 
-    <td> </td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Dataset</span></td>
+    <td class="tg-us36" colspan="2">Baseline+<span style="font-weight:bold">A</span></td>
+    <td class="tg-yw4l" colspan="2">VdSA+<span style="font-weight:bold">A</span>+<span style="font-weight:bold">H</span></td>
+    <td class="tg-yw4l" colspan="2">VdSA+<span style="font-weight:bold">A</span>+<span style="font-weight:bold">S</span></td>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td> 
-    <td> </td>
+    <td class="tg-baqh"></td>
+    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">beta</td>
+    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">beta</td>
+    <td class="tg-yw4l">alpha</td>
+    <td class="tg-yw4l">beta</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:bold">ap&amp;Y</span></td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">100</td>
+    <td class="tg-baqh">50</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><span style="font-weight:bold">AwA</span></td>
+    <td class="tg-c3ow">100</td>
+    <td class="tg-c3ow">10</td>
+    <td class="tg-baqh">100</td>
+    <td class="tg-c3ow">1</td>
+    <td class="tg-baqh">100</td>
+    <td class="tg-c3ow">10</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:bold">CUB-200</span></td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">100</td>
+    <td class="tg-baqh">10</td>
   </tr>
 </table>
 
