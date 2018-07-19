@@ -95,7 +95,7 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">AwA</span></td>
     <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">0</td>
     <td class="tg-baqh">100</td>
     <td class="tg-c3ow">1</td>
     <td class="tg-baqh">100</td>
