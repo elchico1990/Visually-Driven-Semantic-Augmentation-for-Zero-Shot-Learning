@@ -71,8 +71,8 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Dataset</span></td>
     <td class="tg-us36" colspan="2">Baseline+<span style="font-weight:bold">A</span></td>
-    <td class="tg-yw4l" colspan="2">VdSA+<span style="font-weight:bold">A</span>+<span style="font-weight:bold">H</span></td>
-    <td class="tg-yw4l" colspan="2">VdSA+<span style="font-weight:bold">A</span>+<span style="font-weight:bold">S</span></td>
+    <td class="tg-yw4l" colspan="2">VdSA+<span style="font-weight:bold">W</span>+<span style="font-weight:bold">H</span></td>
+    <td class="tg-yw4l" colspan="2">VdSA+<span style="font-weight:bold">W</span>+<span style="font-weight:bold">S</span></td>
   </tr>
   <tr>
     <td class="tg-baqh"></td>
