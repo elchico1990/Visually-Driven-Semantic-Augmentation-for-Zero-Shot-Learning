@@ -36,8 +36,8 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   </tr>
   <tr>
     <td class="tg-baqh"><span style="font-weight:bold">ap&amp;Y</span></td>
-    <td class="tg-baqh">50</td>
     <td class="tg-baqh">1</td>
+    <td class="tg-baqh">0</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">10</td>
@@ -45,8 +45,8 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">AwA</span></td>
-    <td class="tg-c3ow">80</td>
-    <td class="tg-c3ow">10</td>
+    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">0</td>
     <td class="tg-baqh">50</td>
     <td class="tg-c3ow">1</td>
     <td class="tg-baqh">100</td>
@@ -106,9 +106,9 @@ We provide the parameters configuration that we used in our BMVC 2018 paper for 
     <td class="tg-baqh">1</td>
     <td class="tg-baqh">10</td>
     <td class="tg-baqh">10</td>
-    <td class="tg-baqh">1</td>
-    <td class="tg-baqh">60</td>
+    <td class="tg-baqh">10</td>
     <td class="tg-baqh">0.0001</td>
+    <td class="tg-baqh">60</td>
   </tr>
 </table>
 
